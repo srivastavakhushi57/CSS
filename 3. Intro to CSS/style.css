@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(224, 142, 112);
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: lightgreen;
+}
+#red{
+    color: red;
+    background-color: lightgreen;
+}
+#para{
+    color: green;
+}
+#big{
+    color: black;
+    font-size: larger;
+}
+.white{
+    color: white;
+}
+article{
+    color: white;
+}
+span{
+    color: black;
+    font-size: larger;
+}
+#yellow{
+    color: purple;
+    background-color: yellow;
+}
+#blue{
+    color: purple;
+    background-color: blue;
+}
+ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
